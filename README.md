@@ -9,7 +9,7 @@ I am an 18 year old Frontend developer and love creating out-of-the-box animated
  
 **Version Control:** `Git` `GitLab`
 
-**Graphic design:** `Figma` `Canva``Blender`
+**Graphic design:** `Figma` `Canva` `Blender`
 
  
 ## ✨ Fun Facts 
