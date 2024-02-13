@@ -20,5 +20,5 @@ I am an 18 year old Frontend developer and love creating out-of-the-box animated
 
 ## 📫 Contact
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/muclx/) or [LinkedIn](https://www.linkedin.com/in/maciej-talarczyk-6255832b4//). 
+ For a quick response, DM me on [Instagram](https://www.instagram.com/muclx7/) or [LinkedIn](https://www.linkedin.com/in/maciej-talarczyk-6255832b4//). 
  
