@@ -1,6 +1,6 @@
 ### Hey, I'm Maciej 👋🏽  
 
-I am an 18 year old Frontend developer and love creating out-of-the-box animated sites.
+I am an 19 year old Frontend developer and love creating out-of-the-box animated sites.
 
 - Check out my [website](https://portfoliomaciejtalarczyk.pl) to learn more about me.
 ## 📦 Toolbox
